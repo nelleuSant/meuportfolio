@@ -52,7 +52,8 @@ table {
 }
 
 body {
-	-webkit-text-size-adjust: none;
+	/*Error*/
+	/*-webkit-text-size-adjust: none;*/
 }
 
 mark {
@@ -216,7 +217,8 @@ input, select, textarea {
 	}
 
 	pre {
-		-webkit-overflow-scrolling: touch;
+		/*Attention*/
+		/*-webkit-overflow-scrolling: touch;*/
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
@@ -2364,7 +2366,8 @@ input, select, textarea {
 /* Table */
 
 	.table-wrapper {
-		-webkit-overflow-scrolling: touch;
+		/* Attention*/
+		/*-webkit-overflow-scrolling: touch;*/ 
 		overflow-x: auto;
 	}
 
@@ -2771,7 +2774,8 @@ input, select, textarea {
 		-webkit-box-sizing: content-box;
 		-ms-box-sizing: content-box;
 		box-sizing: content-box;
-		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		/*Attention*/
+		/*-webkit-tap-highlight-color: rgba(255, 255, 255, 0);*/
 		background: #fff;
 		border-radius: 0.35em;
 		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
@@ -2833,7 +2837,8 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+			/*Attention*/
+			/*-webkit-tap-highlight-color: rgba(255, 255, 255, 0);*/
 			background: rgba(0, 0, 0, 0.01);
 			cursor: pointer;
 			height: 100%;
@@ -2894,7 +2899,8 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+			/*Attention*/
+			/*-webkit-tap-highlight-color: rgba(255, 255, 255, 0);*/
 			color: #fff;
 			height: 4em;
 			line-height: 4em;
@@ -3036,7 +3042,7 @@ input, select, textarea {
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 950px) {
 
 		/* Basic */
 
